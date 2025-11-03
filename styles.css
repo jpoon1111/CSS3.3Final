@@ -1563,6 +1563,7 @@ footer svg {
     margin: 16px 0;
     margin-bottom: 0px;
     line-height: 1.5;
+    position:static;
   }
 
   .treact__trusted--customers-title {
