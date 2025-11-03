@@ -1548,6 +1548,7 @@ footer svg {
   .treact__email--wrapper {
     flex-direction: column;
     height: auto;
+    max-width: none;
   }
 
   .treact__email--input {
@@ -1564,6 +1565,7 @@ footer svg {
     margin-bottom: 0px;
     line-height: 1.5;
     position:static;
+    max-
   }
 
   .treact__trusted--customers-title {
